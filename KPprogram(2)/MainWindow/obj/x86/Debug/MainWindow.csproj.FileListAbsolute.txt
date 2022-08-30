@@ -1,0 +1,8 @@
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.Form1.resources
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.Properties.Resources.resources
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.csproj.GenerateResource.Cache
+D:\программирование\KP по программированию\KPprogram\MainWindow\bin\Debug\MainWindow.exe
+D:\программирование\KP по программированию\KPprogram\MainWindow\bin\Debug\MainWindow.pdb
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.exe
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.pdb
+D:\программирование\KP по программированию\KPprogram\MainWindow\obj\x86\Debug\MainWindow.csprojResolveAssemblyReference.cache
